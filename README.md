@@ -1,2 +1,2 @@
-# telesketchPad
-Telesketch alike controller for PC
+# etchasketchPad
+Etch a sketch alike controller for PC
